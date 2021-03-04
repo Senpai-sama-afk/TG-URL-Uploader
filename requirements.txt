@@ -7,5 +7,5 @@ Pillow
 pyrogram
 requests
 tgcrypto
-git+https://github.com/FaArIsH/youtube-dl
+youtube-dl
 olefile
